@@ -1,0 +1,14 @@
+/Users/conyoung/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun
+/Users/conyoung/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun.deps.json
+/Users/conyoung/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun.runtimeconfig.json
+/Users/conyoung/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun.dll
+/Users/conyoung/RiderProjects/MoreCSharpFun/bin/Debug/net8.0/MoreCSharpFun.pdb
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.AssemblyInfoInputs.cache
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.AssemblyInfo.cs
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.csproj.CoreCompileInputs.cache
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.dll
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/refint/MoreCSharpFun.dll
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.pdb
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/MoreCSharpFun.genruntimeconfig.cache
+/Users/conyoung/RiderProjects/MoreCSharpFun/obj/Debug/net8.0/ref/MoreCSharpFun.dll
